@@ -10,11 +10,11 @@
 
   This repository contains the latest pre-compiled versions of the following tools:
 
-  1. StageOrganizer
+  1. StageOrganizer:
   StageOrganizer is a management utility that helps you coordinate multiple application windows and "Stages." It
   provides the logic for grouping related tasks and ensuring your workspace remains organized during complex workflows.
 
-  2. StageMap
+  2. StageMap:
   StageMap acts as a visual bridge and transition handler. It is primarily used to facilitate smooth movement between
   different stages and provides the system with the necessary signals to handle "handover" events between application
   clusters.
