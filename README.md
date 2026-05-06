@@ -1,5 +1,5 @@
 # Stages
-Structuring your workflows. 
+# "Structuring your workflows."
 
   Stage Manager Tools
 
